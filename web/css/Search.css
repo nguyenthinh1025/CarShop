@@ -1,0 +1,20 @@
+#searchlist{
+    margin-top: 2%;
+    margin-left: 18%;
+    border-radius: 1px; 
+}
+
+#table{
+     margin-left: 8%;
+}
+#btnView{
+    text-decoration: none;
+    position: absolute;
+    top: 10%;
+    left:85%;
+    background-color: rgb(255,255,255);
+    border: 1px solid rgb(220,220,220);
+    color: rgb(0,0,0);
+    border-radius: 5px;
+    padding: 1%;
+}

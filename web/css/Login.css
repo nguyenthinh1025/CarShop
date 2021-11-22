@@ -1,0 +1,44 @@
+#loginFrame{
+    position:absolute;
+    top:40%;
+    left:40%;
+    border: 1px solid rgb(220,220,220);
+    border-radius: 10px;
+    text-align:left;
+
+
+}
+#formContainer{    
+    margin: 15px;
+}
+
+#loginFormContent{
+    padding: 5px 0 5px 10px;
+    background-color: rgb(245,245,245);
+    border-bottom: 1px solid rgb(220,220,220);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#loginContainer{
+    font-family: Times;
+}
+.input{
+    width: 250px;
+    height: 30px;
+    border: 1px solid rgb(220,220,220);
+    border-radius: 5px;
+}
+
+
+.btnSubmit{
+    width: 255px;
+    height: 30px;
+    border: 1px solid rgb(92,184,92);
+    border-radius: 10px;
+    background-color: rgb(92,184,92);
+    color: white;
+}
+
+.inputClass   {
+    margin-bottom: 5%;
+    padding-left: 10px;
+}

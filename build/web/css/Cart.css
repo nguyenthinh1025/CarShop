@@ -1,0 +1,66 @@
+th{
+    border-top: 1px solid black;
+    height: 40px;
+}
+
+td{
+    height: 40px;
+}
+
+th:nth-child(1){
+    width:50%;
+}
+
+table, td, th {
+    border-bottom: 1px solid black;
+}
+
+table {
+    margin-top: 5%;
+    width: 100%;
+    border-collapse: collapse; 
+    text-align: left;
+}
+
+table{
+    border-bottom: none;
+
+}
+
+#btn{
+    cursor: pointer;
+    padding: 5%;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(217,83,79);
+    color: rgb(255,255,255); 
+}
+
+#buy{
+    cursor: pointer;
+    padding: 1%;
+    border: none;
+     border-radius: 5px;
+    background-color: chartreuse;
+    color: rgb(255,255,255);
+    margin-left: 85%;
+    margin-bottom: 80%;
+}
+
+#btnContinue{
+    position: absolute;
+    top: 90%;
+    left: 0;
+    text-decoration: none;
+    padding: 1%;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(92,184,92);
+    color: rgb(255,255,255);
+}
+
+
+
+
+
+
